@@ -53,3 +53,4 @@ Include a screenshot of your blog after running it locally!
 - Check if each component has the correct data it needs.
 - Keep components small and focused.
 
+One more push
